@@ -29,7 +29,7 @@ require (
 	github.com/pingcap/parser v0.0.0-20210525032559-c37778aff307
 	github.com/pingcap/tidb v1.1.0-beta.0.20210601085537-5d7c852770eb
 	github.com/pingcap/tipb v0.0.0-20210601083426-79a378b6d1c4 // indirect
-	github.com/prestodb/presto-go-client v0.0.0-20211201125635-ad28cec17d6c // indirect
+	github.com/prestodb/presto-go-client v0.0.0-20211201125635-ad28cec17d6c
 	github.com/sijms/go-ora/v2 v2.4.28
 	github.com/taozle/go-hive-driver v0.0.0-20181206100408-79951111cb07
 	github.com/tealeg/xlsx/v3 v3.2.3
@@ -38,7 +38,7 @@ require (
 	github.com/wumansgy/goEncrypt v0.0.0-20201114063050-efa0a0601707
 	github.com/zach-klippenstein/goregen v0.0.0-20160303162051-795b5e3961ea
 	golang.org/x/exp v0.0.0-20210220032938-85be41e4509f // indirect
-	golang.org/x/net v0.0.0-20220706163947-c90051bbdb60
+	golang.org/x/net v0.23.0
 	gopkg.in/ini.v1 v1.62.0
 	gopkg.in/yaml.v2 v2.4.0
 	modernc.org/sqlite v1.11.2
